@@ -1,3 +1,3 @@
 # meta-version-control-forking-lab
-Mina Noghabaeigit
+Mina Noghabaei
 Version Control Certification
